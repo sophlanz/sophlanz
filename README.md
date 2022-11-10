@@ -1,8 +1,6 @@
 ### Hello World 👋 	I'm Sophia (she/her) 
 
-<div id="header" align="center">
- <iframe src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen>
-</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
