@@ -1,7 +1,7 @@
 ### Hello World 👋 	I'm Sophia (she/her) 
 
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jr-justrocket-justrocketteam-CAIgh8LKFbIciGx5Qe">via GIPHY</a></p>
+ <iframe src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 <!--
 - 🔭 I’m currently working on ...
