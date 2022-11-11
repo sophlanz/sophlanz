@@ -1,4 +1,6 @@
-### Hello World 👋 	I'm Sophia (she/her) 
+<div align="center"
+### Hello World 👋 I'm Sophia (she/her) 
+                     </div>
 
 
 <!--
