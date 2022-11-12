@@ -1,14 +1,13 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
-<h2>Hello World  👋 </h2>
-<h2>I'm Sophia Lanzendorf (she/her)</h2>
-<p><strong>People and culture enthusiast, ESL teacher, turned Software Engineer</strong></p>
+<h2>Hello World 👋 I'm Sophia Lanzendorf (she/her)</h2>
+<h3><strong>People and culture enthusiast, ESL teacher, turned Software Engineer</strong></h3>
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <ul>
   <li> 🌱 I’m currently learning <strong>typescript</strong>.</li>
   <li>🔭 Exploring <strong>accessibility</strong> </li>
-  <li>⚡ In my freetime I like to write <strong>code</strong> cook <strong>thai food</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
+  <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
   <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
 </ul>
 <h3>:hammer_and_wrench: Languages and Tools : </h3>
