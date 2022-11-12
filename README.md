@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif"><img/>
-<h1>Hello World 👋 I'm Sophia (she/her) <h1/>
+<img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="300"><img/>
+<h1>Hello World 👋 I'm Sophia Lanzendorf (she/her)<h1/>
 </div>
 
 
