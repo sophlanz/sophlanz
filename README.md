@@ -1,5 +1,5 @@
 <div align="center">
-### Hello World 👋 I'm Sophia (she/her) 
+Hello World 👋 I'm Sophia (she/her) 
 </div>
 
 
