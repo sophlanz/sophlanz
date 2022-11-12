@@ -1,14 +1,33 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
-<h2>Hello World 👋 I'm Sophia Lanzendorf (she/her)</h2>
-<p><strong>English as a Second Language Teacher turned Software Developer</strong></p>
+<h2>Hello World  👋 </h2>
+<h2>I'm Sophia Lanzendorf (she/her)</h2>
+<p><strong>People and culture enthusiast, ESL teacher, turned Software Engineer</strong></p>
 </div>
-
-- 🌱 I’m currently learning <strong>typescript</strong>.
-- ⚡ In my freetime I like to write code, cook thai food, and learn languages. ¿Hablas español?
-- 📫 How to reach me: sophialanzendorf@gmail.com
-
-
+<h3>:woman_technologist: About Me :</h3>
+<ul>
+  <li> 🌱 I’m currently learning <strong>typescript</strong>.</li>
+  <li>🔭 Exploring <strong>accessibility</strong> </li>
+  <li>⚡ In my freetime I like to write <strong>code</strong> cook <strong>thai food</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
+  <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
+</ul>
+<h3>:hammer_and_wrench: Languages and Tools : </h3>
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" **alt="express width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" **alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;       <h3>:fire: My Stats :</h3> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophlanz&theme=react"/><br/>                                           
+  <img src="https://github-readme-stats.vercel.app/api?username=sophlanz&show_icons=true&theme=react" >  <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophlanz&layout=compact&theme=react"/>                                                                                                  
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 
