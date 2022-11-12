@@ -7,7 +7,7 @@
 <ul>
   <li> 🌱 I’m currently learning <strong>typescript</strong>.</li>
   <li>🔭 Exploring <strong>accessibility</strong> </li>
-  <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
+  <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, mingle with <strong>people from different cultures</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
   <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
 </ul>
 <h3>:hammer_and_wrench: Languages and Tools : </h3>
