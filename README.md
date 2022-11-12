@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 <h2>Hello World 👋 I'm Sophia Lanzendorf (she/her)</h2>
 <p><strong>English as a Second Language Teacher turned Software Developer</strong></p>
 </div>
