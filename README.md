@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 <h2>Hello World 👋 I'm Sophia Lanzendorf (she/her)</h2>
-<h3><strong>People and culture enthusiast, ESL teacher, turned Software Engineer</strong></h3>
+<h3><strong>People, culture, language enthusiast and Software Engineer</strong></h3>
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <ul>
