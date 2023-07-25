@@ -5,7 +5,7 @@
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <ul>
-  <li> 🌱 I’m currently learning <strong>Three.JS</strong> and <strong> Data Structures and Algorithms</strong>.</li>
+  <li> 🌱 I’m currently learning <strong>Systems Design</strong> and <strong> Data Structures and Algorithms</strong>.</li>
   <li>🔭 Exploring <strong>accessibility</strong> </li>
   <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, mingle with <strong>people from different cultures</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
   <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
