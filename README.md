@@ -5,7 +5,7 @@
 </div>
 <h3>:woman_technologist: About Me :</h3>
 <ul>
-  <li> 🌱 I’m currently creating a MVP of an open-source project aloginside my mentor that will display a worldwide wind radar and forecast, of past, present, and future winds.</li>
+  <li> 🌱 I’m currently creating a <strong>MVP of an open-source project</strong> aloginside my mentor that will display a <strong>worldwide wind radar and forecast</strong>, of past, present, and future winds.</li>
   <li>🔭 Exploring <strong>accessibility</strong> </li>
   <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, mingle with <strong>people from different cultures</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
   <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
