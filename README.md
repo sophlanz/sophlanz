@@ -6,7 +6,7 @@
 <h3>:woman_technologist: About Me :</h3>
 <ul>
   <li> 🌱 I’m currently creating a <strong>MVP of an open-source project</strong> aloginside my mentor that will display a <strong>worldwide wind radar and forecast</strong>, of past, present, and future winds.</li>
-  <li> 💻 I'm also working alongside a team on an MVP for a startup, New Dew, that seeks to solve all of the headaches accompanied by booking natural hair appointments.</li>
+  <li> 💻 I'm also working alongside a team on an <strong> MVP for a startup, New Dew</strong>, that seeks to solve all of the headaches accompanied by <strong>booking natural hair appointments</strong>.</li>
   <li>🔭 Exploring <strong>systems design</strong> </li>
   <li>⚡ In my freetime I like to write <strong>code</strong>, cook <strong>thai food</strong>, mingle with <strong>people from different cultures</strong>, and learn <strong>languages</strong>. ¿Hablas español?</li>
   <li> 📫 How to reach me: sophialanzendorf@gmail.com</li>
